@@ -1,0 +1,50 @@
+#contact{
+    margin: auto;
+    padding: 10px;
+    background-color: orangered;
+    border-radius: 20px;
+    text-align: center;
+    width: 46%;
+    float: left;
+    height: 100%
+}
+#contact .contact-field{
+    height: 25px
+}
+#contact textarea{
+    width: 70%;
+    height: 20%
+} 
+.submit{
+    border-radius: 3px;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    font-family: cursive;
+    background-color: white;
+    border: 2px solid yellow;
+    font-size:10px;
+}
+#contact-body{
+    width: 90%;
+     margin: auto;
+    padding: 10px;
+    height: 70%
+}
+#contact-2{
+    margin: auto;
+    padding: 10px;
+    background-color: orangered;
+    border-radius: 20px;
+    text-align: center;
+    width: 46%;
+    float: right;
+    overflow: scroll;
+    overflow-x:hidden;
+    height: 100%
+}
+.section{
+    background-color: white;
+    border-radius: 20px;
+    
+}

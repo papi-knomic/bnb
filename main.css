@@ -1,0 +1,140 @@
+body{
+    background-color: black;
+    font-family: cursive;
+    width: inherit;
+}
+
+a{
+    text-decoration: none;
+    color: darkorange
+}
+#menu {
+    padding: 14px 17px;
+    width: inherit;
+    text-align: center;
+    height: 20%;
+    margin-bottom: 10px;
+}
+
+#menu div{
+    float: right;
+    font-variant: small-caps;
+    margin-top: 50px;
+    padding-right: 40px
+}
+.nav-logo{
+    float: left;
+    height: 100%;
+}
+.nav-logo img{
+    height: 100%
+}
+.nav-item{
+    text-align: center;
+    border: 2px solid yellow;
+    border-radius: 4px;
+    font-size: 30px;
+}
+#body{
+    margin: auto;
+    padding: 10px;
+    background-color: orangered;
+    border-radius: 20px;
+    text-align: center;
+    width: 90%;
+    margin-bottom: 5px;
+    height: 30%;
+}
+.clear{
+    clear: both;
+}
+#body h3{
+    margin-top: 0;
+    
+}
+#body button{
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    font-family: cursive;
+    background-color: white;
+    border: 2px solid yellow;
+    font-size:20px;
+}
+#body button a{
+    color: black;
+}
+
+#bottom-1{
+    float: left;
+    width: 49%;
+    background-color: yellow;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    height: auto;
+    background-color: yellow;
+    height: 100%;
+    opacity: 0.85;
+}
+#bottom-1 ul{
+    overflow: scroll;
+    display: block;
+    list-style: none;
+    text-align: center;
+    height: 100px;
+    overflow-x: hidden;
+    list-style-position: inside;
+}
+#bottom-1 ul li{
+    padding: 5px;
+}
+
+#bottom-2{
+    float: right;
+    width: 49%;
+    background-color: yellow;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    height: auto;
+    background-color: yellow;
+    height: 100%;
+    opacity: 0.85;
+}
+#bottom-2 ul{
+    overflow: scroll;
+    display: block;
+    list-style: none;
+    text-align: center;
+    height: 100px;
+    overflow-x: hidden;
+    list-style-position: outside;
+}
+#bottom-2 ul audio{
+    width: 80%;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.bottom{
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    width: 90%;
+    margin-bottom: 5px;
+    height: 30%;
+    border: 2px solid orange;
+}
+footer{
+    text-align: center;
+    color: darkorange;
+}
+footer li{
+    list-style: none;
+    display: inline;
+    text-align: center;
+    border: 2px solid yellow;
+    border-radius: 4px;
+}
